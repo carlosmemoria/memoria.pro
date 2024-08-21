@@ -14,4 +14,5 @@ A estrutura do projeto é organizada da seguinte forma:
 - **`css/style.css`**: Arquivo de CSS que contém o estilo visual da página.
 - **`js/script.js`**: Arquivo de JavaScript responsável pelas funcionalidades e interatividade da página.
 - **`assets/images/background_base64.txt`**: Arquivo de texto que armazena a string Base64 da imagem usada como fundo do site.
+- **`MEMORIAPRO_STRUCTURE.md`**: Arquivo de estrutura do site memoria.pro
 
